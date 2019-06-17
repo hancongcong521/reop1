@@ -6,6 +6,5 @@ public class git_test {
 
         System.out.println("aaaaaaaaaaa");
 
-        System.out.println("bbbbbbbbbb");
     }
 }
